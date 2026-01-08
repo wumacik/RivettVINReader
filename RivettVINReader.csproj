@@ -3,8 +3,8 @@
   <PropertyGroup>
     <TargetFramework>net35</TargetFramework>
     <AssemblyName>RivettVINReader</AssemblyName>
-    <Product>A tool that will show your Rivett's VIN specifications in-game by pressing K, useful for trying to get a save with a good VIN.</Product>
-    <Version>1.0.0</Version>
+    <Product>RivettVINReader</Product>
+    <Version>1</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <LangVersion>latest</LangVersion>
     <RestoreAdditionalProjectSources>
